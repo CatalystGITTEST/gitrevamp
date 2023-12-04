@@ -101,7 +101,8 @@
       "q45",
       "q46",
       "q47",
-      "max"
+      "max",
+      "max1"
     ],
     "ignore": [
       ".output"
