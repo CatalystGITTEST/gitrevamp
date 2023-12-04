@@ -1,11 +1,11 @@
 {
 	"deployment": {
-		"name": "testing_new_function",
-		"stack": "node14",
+		"name": "q38",
+		"stack": "python_3_9",
 		"type": "basicio",
 		"env_variables": {}
 	},
 	"execution": {
-		"main": "index.js"
+		"main": "main.py"
 	}
 }
