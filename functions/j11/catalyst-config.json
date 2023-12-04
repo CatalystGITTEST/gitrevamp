@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "j11",
+		"stack": "java11",
+		"type": "basicio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "Sample"
+	}
+}
